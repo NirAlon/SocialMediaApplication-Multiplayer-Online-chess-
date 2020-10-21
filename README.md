@@ -1,7 +1,7 @@
 Social Media : 
 
 + Wall Page.
-+Uploud Post Private/Public.
++Upload Post Private/Public.
 +Delete post.
 +Follow friends and Search bar users.
 
@@ -25,7 +25,7 @@ Npm Start
 Localhost:3000
 
 Chess game, Multiplayr Integraded with Social Media.
-Showing how is Online and available.
+Showing who is Online and available.
 
 PHP | MySql
 
