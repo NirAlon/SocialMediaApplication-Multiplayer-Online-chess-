@@ -1,11 +1,16 @@
 Social Media : 
 
 + Wall Page.
-+Uploud Post Private/Public.
++Upload Post Private/Public.
 +Delete post.
 +Follow friends and Search bar users.
 
-DB FireBase
+DB FireBase - Don't forget to change the config file at util folder.
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
 
 
 Npm install firebase 
@@ -20,7 +25,7 @@ Npm Start
 Localhost:3000
 
 Chess game, Multiplayr Integraded with Social Media.
-Showing how is Online and available.
+Showing who is Online and available.
 
 PHP | MySql
 
