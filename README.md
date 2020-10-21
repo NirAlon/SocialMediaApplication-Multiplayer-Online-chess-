@@ -5,7 +5,12 @@ Social Media :
 +Delete post.
 +Follow friends and Search bar users.
 
-DB FireBase
+DB FireBase - Don't forget to change the config file at util folder.
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
 
 
 Npm install firebase 
