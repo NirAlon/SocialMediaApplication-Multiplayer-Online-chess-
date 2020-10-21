@@ -1,0 +1,29 @@
+.container input{
+    padding: 2px;
+    font-size: 14px;
+    font-style: italic;
+    color: black;
+    outline: none;
+    box-sizing: border-box;
+    position: fixed;
+    top: 30px;
+    left: 10px;
+    height: 25px;
+    width: 300px;
+}
+
+.results-container {
+	display: flex;
+	flex-flow: wrap;
+}
+
+.result-items {
+	position: relative;
+	padding: 16px;
+	border: 1px solid #898989;
+	margin: 16px;
+	text-align: center;
+	min-width: 200px;
+	text-decoration: none;
+	box-shadow: 2px 2px 2px #898989;
+}
